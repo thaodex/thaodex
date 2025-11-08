@@ -10,8 +10,8 @@
 <!--          INTRODUCTION         -->
 <!-- ============================= -->
 
-# 💫 Hi, I'm **DcThao**  
-> _“Welcome to DcThao’s Space ✨”_  
+# 💫 Hi, I'm **DcThao**
+> _“Welcome to DcThao’s Space ✨”_
 **Student • Web Developer • AI Enthusiast • Open Source Learner**
 
 <p align="center">
@@ -24,12 +24,12 @@
 <!--             ABOUT ME          -->
 <!-- ============================= -->
 
-## 🧩 About Me  
+## 🧩 About Me
 
 🌸 I’m a Computer Science student who loves blending **creativity with technology**.  
 💻 I enjoy building tools, experimenting with **AI & automation**, and exploring how design meets code.  
 🚀 I believe in _“learning by doing”_ and sharing knowledge through open source.  
-🎧 Outside coding, I’m probably listening to Miku songs or creating something aesthetic 💙  
+🎧 Outside coding, I’m probably listening to Miku songs or designing aesthetic layouts 💙  
 
 ---
 
@@ -68,7 +68,7 @@
 }
 .project-card:hover {
   transform: translateY(-6px);
-  box-shadow: 0 0 20px rgba(0, 255, 255, 0.6);
+  box-shadow: 0 0 25px rgba(0, 255, 255, 0.8);
 }
 .project-title {
   color: #00ffff;
@@ -78,6 +78,12 @@
 }
 .project-title:hover {
   text-shadow: 0 0 8px #00ffff;
+}
+.chibi {
+  width: 40px;
+  position: relative;
+  top: -10px;
+  left: 8px;
 }
 </style>
 
@@ -90,10 +96,13 @@
     <td width="50%" align="center">
       <div class="project-card">
         <img src="https://i.imgur.com/tJGzZJr.png" width="90%" alt="Auto Mentor AI" style="border-radius:10px;">
-        <h3><a class="project-title" href="https://github.com/thao206/EduMentorAI">Auto Mentor AI 🧠</a></h3>
+        <h3>
+          <a class="project-title" href="https://github.com/thao206/EduMentorAI">Auto Mentor AI 🧠</a>
+          <img class="chibi" src="https://i.imgur.com/RoJ9o9g.png" alt="Chibi Miku"/>
+        </h3>
         <p><i>A smart assistant for students & educators.</i></p>
         <ul align="left">
-          <li>🤖 AI-based question answering</li>
+          <li>🤖 AI-based Q&A system</li>
           <li>💬 Real-time chat interface</li>
           <li>⚡ Modular & scalable architecture</li>
         </ul>
@@ -104,7 +113,10 @@
     <td width="50%" align="center">
       <div class="project-card">
         <img src="https://i.imgur.com/lpmEOjR.png" width="90%" alt="AI Study Assistant" style="border-radius:10px;">
-        <h3><a class="project-title" href="#">AI Study Assistant 🚀</a></h3>
+        <h3>
+          <a class="project-title" href="#">AI Study Assistant 🚀</a>
+          <img class="chibi" src="https://i.imgur.com/RoJ9o9g.png" alt="Chibi Miku"/>
+        </h3>
         <p><i>Cross-platform learning tool powered by AI.</i></p>
         <ul align="left">
           <li>🗣 Voice input & smart response</li>
