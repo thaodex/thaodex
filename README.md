@@ -1,153 +1,110 @@
-<!-- ============================= -->
-<!--          BANNER SECTION       -->
-<!-- ============================= -->
+<div align="center">
+  <img src="https://i.imgur.com/YXcl9LO.png" width="100%" alt="Banner" style="border-radius: 10px;"/>
+</div>
 
-![Banner](https://i.imgur.com/YXcl9LO.png)
+<br/>
 
----
+<div align="center">
+  <img src="https://media.tenor.com/nTze8XrHq-0AAAAC/hatsune-miku.gif" width="180" alt="Miku Gif"/>
+  
+  <h1 align="center">Hi there, I'm <a href="https://github.com/thaodex">DcThao</a> 🌟</h1>
 
-<!-- ============================= -->
-<!--          INTRODUCTION         -->
-<!-- ============================= -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39A9DB&center=true&vCenter=true&width=435&lines=Student+%E2%80%A2+Web+Developer;AI+Enthusiast+%E2%80%A2+Open+Source;Welcome+to+DcThao's+Space+%E2%9C%A8" alt="Typing SVG" />
+  </a>
+</div>
 
-# 💫 Hi, I'm **DcThao**
-> _“Welcome to DcThao’s Space ✨”_  
-**Student • Web Developer • AI Enthusiast • Open Source Learner**
+<div align="center">
+  <a href="mailto:dtc245200482@ictu.edu.vn">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/thao206">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
 
-<p align="center">
-  <img src="https://media.tenor.com/nTze8XrHq-0AAAAC/hatsune-miku.gif" width="240" alt="Miku Gif"/>
-</p>
+<br/>
 
----
+## 🧩 **About Me**
 
-<!-- ============================= -->
-<!--             ABOUT ME          -->
-<!-- ============================= -->
+<img align="right" src="https://media.tenor.com/9Jd8L2XMP5gAAAAC/miku-coding.gif" width="180" alt="Miku Coding">
 
-## 🧩 About Me  
+🌸 Mình là sinh viên ngành Khoa học Máy tính, yêu thích sự kết hợp giữa **sáng tạo** và **công nghệ**.  
+💻 Mình thích xây dựng công cụ, thử nghiệm với **AI & Tự động hóa**, và khám phá cách thiết kế kết hợp với mã nguồn.  
+🚀 Phương châm: *"Học bằng thực hành"* và chia sẻ kiến thức qua mã nguồn mở.  
+🎧 Ngoài code, mình thường nghe nhạc Miku hoặc thiết kế những thứ mang tính thẩm mỹ 💙
 
-🌸 I’m a Computer Science student who loves blending **creativity with technology**.  
-💻 I enjoy building tools, experimenting with **AI & automation**, and exploring how design meets code.  
-🚀 I believe in _“learning by doing”_ and sharing knowledge through open source.  
-🎧 Outside coding, I’m probably listening to Miku songs or designing something aesthetic 💙  
-
----
-
-<!-- ============================= -->
-<!--         TECH & TOOLS          -->
-<!-- ============================= -->
-
-## ⚙️ Tech & Tools  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
-</p>
+<br clear="right"/>
 
 ---
 
-<!-- ============================= -->
-<!--           MY PROJECTS         -->
-<!-- ============================= -->
+## 🛠️ **Tech & Tools**
 
-## 💫 Featured Projects  
+<div align="center">
 
-<p align="center">
-  <img src="https://media.tenor.com/9Jd8L2XMP5gAAAAC/miku-coding.gif" width="200" alt="Miku Coding"/>
-</p>
+  **Languages** <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
 
-<table align="center">
+  **Frameworks & Tools** <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" />
+
+</div>
+
+---
+
+## 💫 **Featured Projects**
+
+<table align="center" border="0">
   <tr>
     <td align="center" width="50%">
-      <img src="https://i.imgur.com/WweEx1E.png" width="92%" alt="Auto Mentor AI" style="border-radius:12px;">
-      <h3><a href="https://github.com/thao206/EduMentorAI">Auto Mentor AI 🧠</a></h3>
-      <p><i>A smart assistant for students & educators.</i></p>
-      <ul align="left">
-        <li>🤖 AI-powered Q&A system</li>
-        <li>💬 Real-time chat interface</li>
-        <li>⚡ Modular and scalable design</li>
-      </ul>
-      <a href="https://github.com/thao206/EduMentorAI">🔗 View on GitHub</a>
+      <a href="https://github.com/thao206/EduMentorAI">
+        <img src="https://i.imgur.com/WweEx1E.png" width="100%" alt="Auto Mentor AI" style="border-radius:10px;">
+      </a>
+      <br/><br/>
+      <b>🧠 Auto Mentor AI</b>
+      <br/>
+      <i>Trợ lý ảo hỗ trợ học tập & giảng dạy.</i>
+      <br/><br/>
+      <code>Python</code> <code>AI</code> <code>Chatbot</code>
     </td>
-
     <td align="center" width="50%">
-      <img src="https://i.imgur.com/lpmEOjR.png" width="92%" alt="AI Study Assistant" style="border-radius:12px;">
-      <h3>AI Study Assistant 🚀</h3>
-      <p><i>Cross-platform learning tool powered by OpenAI API.</i></p>
-      <ul align="left">
-        <li>🗣 Voice input & smart response</li>
-        <li>📝 Notes summarization</li>
-        <li>💡 ChatGPT-powered study features</li>
-      </ul>
-      <a href="#">🔗 Coming Soon</a>
+      <a href="#">
+        <img src="https://i.imgur.com/lpmEOjR.png" width="100%" alt="AI Study Assistant" style="border-radius:10px;">
+      </a>
+      <br/><br/>
+      <b>🚀 AI Study Assistant</b>
+      <br/>
+      <i>Công cụ học tập đa nền tảng với OpenAI.</i>
+      <br/><br/>
+      <code>Voice Input</code> <code>OpenAI API</code>
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://i.imgur.com/k4m8B6f.png" width="70" alt="Chibi Miku"/>
-</p>
+---
+
+## 📊 **GitHub Statistics**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thao206&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thao206&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="langs" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=thao206&theme=tokyonight&hide_border=true&background=0D1117" alt="streak" />
+</div>
 
 ---
 
-<!-- ============================= -->
-<!--          WIP PROJECTS         -->
-<!-- ============================= -->
-
-## 🔧 Work in Progress  
-
-🛠 **AI Study Assistant**  
-> _Learning with the help of AI – more natural, more fun!_  
-Features in development:  
-- 🎙 Voice input & smart response  
-- 📚 Notes summarization  
-- 💬 Real-time chat  
-
----
-
-<!-- ============================= -->
-<!--          CONNECT WITH ME      -->
-<!-- ============================= -->
-
-## 🌐 Connect with Me  
-
-<p align="center">
-  <a href="mailto:dtc245200482@ictu.edu.vn">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/your-link">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/thao206">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-<!-- ============================= -->
-<!--           GITHUB STATS        -->
-<!-- ============================= -->
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thao206&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thao206&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=thao206&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thao206&style=for-the-badge&color=00ffff" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=thao206&style=flat-square&color=blueviolet" alt="hits"/>
+  <br/>
+  <i>Thanks for visiting my profile!</i> 💙
+</div>
