@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://i.imgur.com/YXcl9LO.png" width="100%" alt="Miku Banner" style="border-radius: 15px; box-shadow: 0px 0px 20px #39C5BB;"/>
+<!-- Miku-themed gradient banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=Welcome%20to%20Thaodex's%20Space&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Coding%20with%20Miku%20Vibes%20🎵&descAlignY=55&descAlign=50" width="100%" alt="Miku Banner"/>
 
 <br/><br/>
 
@@ -176,80 +177,91 @@ DevOps & Cloud      ██████████░░░░░░░░░░
 
 ## 💫 **Featured Projects: Project DIVA Mode**
 
-<table align="center" border="0">
-  <tr>
-    <td align="center" width="50%" style="border: 2px solid #39C5BB; border-radius: 10px; padding: 10px;">
-      <a href="https://github.com/thao206/EduMentorAI">
-        <img src="https://i.imgur.com/WweEx1E.png" width="100%" alt="Auto Mentor AI" style="border-radius:10px;">
-      </a>
-      <br/><br/>
-      <b>🧠 Auto Mentor AI</b>
-      <br/>
-      <i>Trợ lý học tập thông minh sử dụng NLP</i>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Python-39C5BB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/OpenAI-E05090?style=flat-square&logo=openai&logoColor=white"/>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-      <br/><br/>
-      <a href="https://github.com/thao206/EduMentorAI">
-        <img src="https://img.shields.io/badge/View_Project-39C5BB?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-    <td align="center" width="50%" style="border: 2px solid #E05090; border-radius: 10px; padding: 10px;">
-      <a href="#">
-        <img src="https://i.imgur.com/lpmEOjR.png" width="100%" alt="Attendance System" style="border-radius:10px;">
-      </a>
-      <br/><br/>
-      <b>🚀 Smart Face Attendance</b>
-      <br/>
-      <i>Hệ thống điểm danh nhận diện khuôn mặt</i>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/OpenCV-39C5BB?style=flat-square&logo=opencv&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-E05090?style=flat-square&logo=postgresql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <br/><br/>
-      <a href="#">
-        <img src="https://img.shields.io/badge/Coming_Soon-E05090?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%" style="border: 2px solid #E05090; border-radius: 10px; padding: 10px;">
-      <a href="#">
-        <img src="https://i.imgur.com/placeholder1.png" width="100%" alt="SAD Project" style="border-radius:10px;" onerror="this.src='https://via.placeholder.com/400x200/39C5BB/FFFFFF?text=SAD+Management+System'">
-      </a>
-      <br/><br/>
-      <b>📊 Library Management System</b>
-      <br/>
-      <i>Hệ thống quản lý thư viện đầy đủ</i>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/React-39C5BB?style=flat-square&logo=react&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Node.js-E05090?style=flat-square&logo=nodedotjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-      <br/><br/>
-      <a href="#">
-        <img src="https://img.shields.io/badge/View_Project-E05090?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-    <td align="center" width="50%" style="border: 2px solid #39C5BB; border-radius: 10px; padding: 10px;">
-      <a href="#">
-        <img src="https://i.imgur.com/placeholder2.png" width="100%" alt="Portfolio" style="border-radius:10px;" onerror="this.src='https://via.placeholder.com/400x200/E05090/FFFFFF?text=Personal+Portfolio'">
-      </a>
-      <br/><br/>
-      <b>🌐 Personal Portfolio</b>
-      <br/>
-      <i>Website cá nhân với Miku theme</i>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/React-39C5BB?style=flat-square&logo=react&logoColor=white"/>
-      <img src="https://img.shields.io/badge/TailwindCSS-E05090?style=flat-square&logo=tailwindcss&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white"/>
-      <br/><br/>
-      <a href="#">
-        <img src="https://img.shields.io/badge/In_Development-39C5BB?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+### 🧠 **Auto Mentor AI**
+<sub>✨ Trợ lý học tập thông minh sử dụng NLP và AI</sub>
+
+```yaml
+Tech Stack:
+  - Language: Python 🐍
+  - AI Engine: OpenAI GPT
+  - Framework: FastAPI ⚡
+  - Features: Natural Language Processing, Smart Q&A, Learning Analytics
+Status: 🔄 In Active Development
+```
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</p>
+
+---
+
+### 🚀 **Smart Face Attendance System**
+<sub>🎯 Hệ thống điểm danh tự động bằng nhận diện khuôn mặt</sub>
+
+```yaml
+Tech Stack:
+  - Language: Python 🐍
+  - Computer Vision: OpenCV
+  - Database: PostgreSQL 🐘
+  - Features: Face Recognition, Real-time Detection, Attendance Analytics
+Status: 🔨 Building MVP
+```
+
+<p>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+---
+
+### 📊 **Library Management System**
+<sub>📚 Hệ thống quản lý thư viện hoàn chỉnh - SAD Course Project</sub>
+
+```yaml
+Tech Stack:
+  - Frontend: React ⚛️
+  - Backend: Node.js + Express
+  - Database: MySQL 🗄️
+  - Features: Book Management, User Authentication, Borrowing System
+Status: ✅ Completed & Deployed
+```
+
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+---
+
+### 🌐 **Personal Portfolio Website**
+<sub>💙 Miku-themed portfolio với animations và interactive UI</sub>
+
+```yaml
+Tech Stack:
+  - Framework: React + Next.js
+  - Styling: TailwindCSS 🎨
+  - Animation: Framer Motion
+  - Features: Project Showcase, Blog, Contact Form, Dark Mode
+Status: 🎨 UI/UX Design Phase
+```
+
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
+</p>
+
+<br/>
+
+> 💡 **Note:** _Các dự án đang trong quá trình phát triển và hoàn thiện. Stay tuned! 🎵_
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-56154483-9712-4453-bf4e-9605ebaf938a.gif" width="100%">
 
@@ -298,45 +310,65 @@ Other        1 hr 20 mins    █░░░░░░░░░░░░░░░░
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code+is+like+music+-+it+needs+rhythm,+harmony,+and+passion!&author=Hatsune+Miku" alt="quote" />
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║  "Code is like music - it needs rhythm, harmony,            ║
+║   and passion to create something truly beautiful!"         ║
+║                                                              ║
+║                                        - Hatsune Miku 🎵     ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
 
 <br/><br/>
 
-> ### 🎵 **"The best error message is the one that never shows up"**
+> ### 🎯 **"The best error message is the one that never shows up"**
 > *- Thaodex's Development Philosophy*
 
 <br/>
 
-### 🎯 **Daily Dev Motivation**
+### ⚡ **Daily Dev Workflow**
 
 <table>
 <tr>
-<td align="center">
+<td align="center" width="20%">
 
 **☕ Code**
 <br/>
-Write clean code
+<sub>Write clean<br/>elegant code</sub>
 
 </td>
-<td align="center">
+<td align="center" width="20%">
 
 **🧪 Test**
 <br/>
-Test everything
+<sub>Test everything<br/>twice</sub>
 
 </td>
-<td align="center">
+<td align="center" width="20%">
+
+**🔍 Review**
+<br/>
+<sub>Code review<br/>matters</sub>
+
+</td>
+<td align="center" width="20%">
 
 **🚀 Deploy**
 <br/>
-Ship with confidence
+<sub>Ship with<br/>confidence</sub>
 
 </td>
-<td align="center">
+<td align="center" width="20%">
 
 **🎵 Repeat**
 <br/>
-With Miku vibes!
+<sub>With Miku<br/>vibes!</sub>
 
 </td>
 </tr>
@@ -346,7 +378,7 @@ With Miku vibes!
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-56154483-9712-4453-bf4e-9605ebaf938a.gif" width="100%">
 
-## 🎪 **Fun Zone: Dev Humor & Random Facts**
+## 🎪 **Fun Zone: Dev Humor**
 
 <div align="center">
 
@@ -354,9 +386,40 @@ With Miku vibes!
 
 <br/><br/>
 
-### 🎲 **Random Dev Fact**
+### 💭 **Developer's Daily Struggles**
 
-![](https://github-readme-stats.vercel.app/api/pin/?username=thao206&repo=thao206&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39C5BB&icon_color=E05090)
+<table>
+<tr>
+<td align="center" width="25%">
+
+**🐛**  
+*Finding bugs*  
+in production
+
+</td>
+<td align="center" width="25%">
+
+**☕**  
+*Coffee-driven*  
+development
+
+</td>
+<td align="center" width="25%">
+
+**💡**  
+*2 AM ideas*  
+are the best
+
+</td>
+<td align="center" width="25%">
+
+**🎵**  
+*Miku music*  
+= +39% speed
+
+</td>
+</tr>
+</table>
 
 </div>
 
